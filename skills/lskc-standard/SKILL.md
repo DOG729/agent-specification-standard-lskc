@@ -18,9 +18,9 @@ Produce and maintain high-quality LSKC specifications that are:
 
 Use these files as normative references:
 
-- `semantic_specification_standard/Standard.md`
-- `semantic_specification_standard/Proxy.md`
-- `semantic_specification_standard/lskc.schema.json`
+- `Standard.md`
+- `Proxy.md`
+- `lskc.schema.json` 
 
 ## Section Semantics (Core)
 
